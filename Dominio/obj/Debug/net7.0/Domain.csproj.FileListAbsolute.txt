@@ -1,0 +1,12 @@
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\bin\Debug\net7.0\Domain.deps.json
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\bin\Debug\net7.0\Domain.dll
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\bin\Debug\net7.0\Domain.pdb
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.dll
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\refint\Domain.dll
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.pdb
+C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\ref\Domain.dll
