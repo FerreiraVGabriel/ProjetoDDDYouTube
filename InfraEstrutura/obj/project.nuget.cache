@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1OIICzGhpSIqKlUPPvZxvqRXQ5cRtwAZQPz0z/I7GfQsbOMySYCUJUw3jP6noWyncsFA1x6jOicGrUWvnnlRjA==",
+  "dgSpecHash": "7Hmt1Oq953SO5gwdlbhmIv+911/evoEuDt5ak1Ofvz3QH0Vl/SnFQdsnfVYNVmRCr83E6tj04HuTR3+6YqTpTQ==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj",
+  "projectFilePath": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

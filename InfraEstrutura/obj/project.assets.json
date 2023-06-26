@@ -1113,6 +1113,9 @@
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -3394,11 +3397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj",
+      "projectUniqueName": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj",
       "projectName": "Infra",
-      "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj",
+      "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\obj\\",
+      "outputPath": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3420,11 +3423,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj": {
-              "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj"
+            "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj": {
+              "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj"
             },
-            "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj": {
-              "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj"
+            "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj": {
+              "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj"
             }
           }
         }

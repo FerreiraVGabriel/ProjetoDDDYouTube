@@ -10,3 +10,6 @@ C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.dll
 C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\refint\Domain.dll
 C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\Domain.pdb
 C:\Estudos\ProjetoDDDYOUTUBE\Dominio\obj\Debug\net7.0\ref\Domain.dll
+C:\Estudos\ProjetoDDDYouTube\Dominio\bin\Debug\net7.0\Entities.dll
+C:\Estudos\ProjetoDDDYouTube\Dominio\bin\Debug\net7.0\Entities.pdb
+C:\Estudos\ProjetoDDDYouTube\Dominio\obj\Debug\net7.0\Domain.csproj.CopyComplete

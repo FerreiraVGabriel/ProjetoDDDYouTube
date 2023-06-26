@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\Apresentação\\WebApi.csproj": {}
+    "C:\\Estudos\\ProjetoDDDYouTube\\Apresentação\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\Apresentação\\WebApi.csproj": {
+    "C:\\Estudos\\ProjetoDDDYouTube\\Apresentação\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Apresentação\\WebApi.csproj",
+        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYouTube\\Apresentação\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Apresentação\\WebApi.csproj",
+        "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Apresentação\\WebApi.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Apresentação\\obj\\",
+        "outputPath": "C:\\Estudos\\ProjetoDDDYouTube\\Apresentação\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj": {
-                "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj"
+              "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj": {
+                "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj": {
+    "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj",
+        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj",
+        "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\obj\\",
+        "outputPath": "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,7 +128,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj": {
+                "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -160,14 +164,14 @@
         }
       }
     },
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj": {
+    "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj",
+        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj",
+        "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\obj\\",
+        "outputPath": "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -226,14 +230,14 @@
         }
       }
     },
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj": {
+    "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj",
+        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\Infra.csproj",
+        "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\Infra.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\InfraEstrutura\\obj\\",
+        "outputPath": "C:\\Estudos\\ProjetoDDDYouTube\\InfraEstrutura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -255,11 +259,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj": {
-                "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Dominio\\Domain.csproj"
+              "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj": {
+                "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Dominio\\Domain.csproj"
               },
-              "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj": {
-                "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Entidades\\Entities.csproj"
+              "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj": {
+                "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Entidades\\Entities.csproj"
               }
             }
           }

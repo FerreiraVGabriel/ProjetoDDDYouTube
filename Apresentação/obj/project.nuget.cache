@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b05YhqrK6sWxk/PK7eiftS8ys0GzOscyBbE9g4gKX0gcZVGvRiMZ/rnqJnJgKlUpZ22y/4e4EIUs5fDSx4zTJQ==",
+  "dgSpecHash": "YZtTs+81tx5YNJzzPV0uraBsjfZQs5CaYvURlRUoRvgfrtvOkL2HRuQIRpdUmp5KRQ2rU1V1lUtfX/RmHtP08w==",
   "success": true,
-  "projectFilePath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Apresentação\\WebApi.csproj",
+  "projectFilePath": "C:\\Estudos\\ProjetoDDDYouTube\\Apresentação\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

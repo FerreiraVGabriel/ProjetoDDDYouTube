@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\Helpers\\Helpers.csproj": {}
+    "C:\\Estudos\\ProjetoDDDYouTube\\Helpers\\Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\ProjetoDDDYOUTUBE\\Helpers\\Helpers.csproj": {
+    "C:\\Estudos\\ProjetoDDDYouTube\\Helpers\\Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Helpers\\Helpers.csproj",
+        "projectUniqueName": "C:\\Estudos\\ProjetoDDDYouTube\\Helpers\\Helpers.csproj",
         "projectName": "Helpers",
-        "projectPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Helpers\\Helpers.csproj",
+        "projectPath": "C:\\Estudos\\ProjetoDDDYouTube\\Helpers\\Helpers.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\ProjetoDDDYOUTUBE\\Helpers\\obj\\",
+        "outputPath": "C:\\Estudos\\ProjetoDDDYouTube\\Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
