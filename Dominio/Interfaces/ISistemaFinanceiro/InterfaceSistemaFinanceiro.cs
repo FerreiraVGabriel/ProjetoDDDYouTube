@@ -8,6 +8,6 @@ namespace Dominio.Interfaces.InterfaceServicos
 {
     public interface InterfaceSistemaFinanceiro
     {
-        Task<IList<SistemaFinanceiro>> ListaSistemaFinanceiro (string emailUsuario);
+        Task<IList<SistemaFinanceiro>> ListaSistemasUsuario (string emailUsuario);
     }
 }
