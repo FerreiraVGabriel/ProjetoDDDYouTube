@@ -3,6 +3,7 @@ using Dominio.Interfaces.ICategoria;
 using Dominio.Interfaces.IDespesa;
 using Dominio.Interfaces.InterfaceServicos;
 using Dominio.Interfaces.IUsuarioSistemaFinanceiro;
+using Dominio.Servicos;
 using Entidades.Entidades;
 using InfraEstrutura.Configuracao;
 using InfraEstrutura.Repositorio;
@@ -27,6 +28,12 @@ builder.Services.AddSingleton<InterfaceCategoria, RepositorioCategoria>();
 builder.Services.AddSingleton<InterfaceDespesa, RepositorioDespesa>();
 builder.Services.AddSingleton<InterfaceSistemaFinanceiro, RepositorioSistemaFinanceiro>();
 builder.Services.AddSingleton<InterfaceUsuarioSistemaFinanceiro, RepositorioUsuarioSistemaFinanceiro>();
+
+// SERVIÇOS e DOMINIO
+builder.Services.AddSingleton<ICategoriaServico, CategoriaServico>();
+builder.Services.AddSingleton<IDespesaServico, DespesaServico>();
+builder.Services.AddSingleton<ISistemaFinanceiroServico, SistemaFinanceiroServico>();
+builder.Services.AddSingleton<IUsuarioSistemaFinanceiroServico, UsuarioSistemaFinanceiroServico>();
 
 var app = builder.Build();
 

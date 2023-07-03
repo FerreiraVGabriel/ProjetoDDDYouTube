@@ -17,7 +17,7 @@ namespace Entidades.Notificacoes
         [NotMapped]
         public List<Notifica> notificacoes { get; set; }
 
-        public bool ValidaPropriedadeString(string valor, string NomePropriedade){
+        public bool ValidarPropriedadeString(string valor, string NomePropriedade){
             if(string.IsNullOrWhiteSpace(valor)||string.IsNullOrWhiteSpace(NomePropriedade)){
                 notificacoes.Add(new Notifica{
                     mensagem = "Campo Obrigatório",
@@ -30,7 +30,7 @@ namespace Entidades.Notificacoes
             return true;
         }
 
-        public bool ValidaPropriedadeInt(int valor, string NomePropriedade){
+        public bool ValidarPropriedadeInt(int valor, string NomePropriedade){
             if(valor < 1 ||string.IsNullOrWhiteSpace(NomePropriedade)){
                 notificacoes.Add(new Notifica{
                     mensagem = "Campo Obrigatório",

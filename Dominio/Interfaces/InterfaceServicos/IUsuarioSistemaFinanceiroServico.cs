@@ -7,8 +7,8 @@ using Entidades.Entidades;
 
 namespace Dominio.Interfaces.InterfaceServicos
 {
-    public interface IUsuarioSistemaFinanceiroServico: InterfaceGeneric<UsuarioSistemaFinanceiro>
+    public interface IUsuarioSistemaFinanceiroServico
     {
-        
+        Task CadastrarUsuarioNoSistema(UsuarioSistemaFinanceiro usuarioSistemaFinanceiro);
     }
 }

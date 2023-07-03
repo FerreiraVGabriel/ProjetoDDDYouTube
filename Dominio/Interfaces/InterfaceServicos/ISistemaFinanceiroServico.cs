@@ -7,8 +7,9 @@ using Entidades.Entidades;
 
 namespace Dominio.Interfaces.InterfaceServicos
 {
-    public interface ISistemaFinanceiroServico: InterfaceGeneric<SistemaFinanceiro>
+    public interface ISistemaFinanceiroServico
     {
-        
+        Task AdicionarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro);
+        Task AtualizarSistemaFinanceiro(SistemaFinanceiro sistemaFinanceiro);
     }
 }
